@@ -73,7 +73,7 @@ Issues and pull requests welcome. If you used this with students and something d
 
 ## Licence
 
-MIT. Use it, fork it, teach with it.
+MIT. See [LICENSE](LICENSE). Use it, fork it, teach with it.
 
 ---
 
